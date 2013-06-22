@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<dataPath>./data/olimpiadas.dat</dataPath>
+	<logPath>./log/</logPath>
+	<selectionPolicy>roulette</selectionPolicy>
+	<populationSize>1000</populationSize>
+	<maxGenerations>100</maxGenerations>
+	<mutationProbability>0.01</mutationProbability>
+	<fitnessType>0</fitnessType>
+	<temperature>+1e+3</temperature>
+	<elitism>0.07</elitism>
+	<bestValue>17212548</bestValue>
+</root>
